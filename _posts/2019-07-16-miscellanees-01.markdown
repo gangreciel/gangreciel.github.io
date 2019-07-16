@@ -10,7 +10,7 @@ Vu que je ne n'arrive pas à me décider sur quel article écrire en premier, je
 
 [Bonnes pratiques][bonnes-pratiques-php] de code pour le langage PHP. Je me demande s'il existe la même chose pour d'autre language ...
 
-Un [article][article-pixel] de Pixel intéressant sur le budget de création d'un jeu vidéo par un petit studio indépendant.
+Un [article][article-pixel] de Pixel important sur le budget de création d'un jeu vidéo par un petit studio indépendant.
 
 L'utilisation des [expressions française][expression-correcte] dans le sens correct.
 
@@ -20,7 +20,7 @@ Parmis ces threads, il y en a notamment un sur les cabinets de conseils : Deloit
 
 [Twine][twine], [Quest][quest] ou [Squiffy][squiffy] pour créer des jeu de rôle textuels. Twine et Squiffy reste pour moi plus intéressant car il y a la possibilité d'ajouter des éléments HTML/CSS/JS pour vraiment enrichir l'expérience. Quest reste un moteur plus classique.
 
-Le [hacking social][hacking-social], parce que la sociologie c'est intéressant quand on prend le temps de s'y intéresser. Ils possèdent une chaîne youtube éponyme.
+Le [hacking social][hacking-social], parce que la sociologie c'est passionnant quand on prend le temps de s'y intéresser. Ils possèdent une chaîne youtube éponyme.
 
 Je voudrai parler un peu de théorie des organisation mais d'abord je dois re-potasser le sujet.
 
